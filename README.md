@@ -1,6 +1,6 @@
 # The RGB Color Guessing Game.
 [![Click Here For Demo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOmi7FnlfvCKTyqUS8THi6O1uLsXKkm_Dp9VZEy-vGXoG6nyx7KA)](http://mdrafi-colorgame.herokuapp.com/index.html)
-#### >>> [Click Here For Demo.](http://mdrafi-colorgame.herokuapp.com/index.html) <<<
+### >>> [Click Here For Demo.](http://mdrafi-colorgame.herokuapp.com/index.html)  or [HERE](https://mohdrafiuddin.github.io/ColorGame/) <<<
 [![screenshot image](css/images/colorgame.png "screenshot of colorgame")](http://mdrafi-colorgame.herokuapp.com/index.html)
 ### Getting Started
 >There are two methods for getting started with this repo.
