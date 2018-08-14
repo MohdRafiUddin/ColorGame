@@ -1,1 +1,1 @@
-<?php header( 'Location: /colorgame1.html' ) ;  ?>
+<?php header( 'Location: /index.html' ) ;  ?>
